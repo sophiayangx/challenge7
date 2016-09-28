@@ -5,3 +5,5 @@ colorfulElements.hover(function(e) {
   var elementHoveredOver = $(e.target)
   colorNameDisplay.html("");
 })
+
+console.log(colorfulElements.hover)
