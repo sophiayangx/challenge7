@@ -2,6 +2,14 @@
   background: lightblue;
 }
 
+#red {
+  background: red;
+}
+
+#green {
+  background: lightblue;
+}
+
 .intro-section {
   display: block;
 }
