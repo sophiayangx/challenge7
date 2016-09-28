@@ -7,11 +7,15 @@
 }
 
 #green {
-  background: lightblue;
+  background: lightgreen;
+}
+
+#orange {
+  background: orange;
 }
 
 .intro-section {
-  display: block;
+  display: inline;
 }
 
 #color-display {
